@@ -1,0 +1,6 @@
+canvas {
+    border: 5px solid red;
+    border-radius: 10px;
+    box-shadow: skyblue 5px 5px 7px;
+    margin-top: 150px;
+}
